@@ -1,8 +1,8 @@
 {
   "name": "Locker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Keep your links safe and secure with this Locker. No one can access your links without your password. ",
-  "manifest_version": 3,
+  "manifest_version": 4,
   "author": "Saurabh Khade",
   "action": {
     "default_popup": "index.html",
